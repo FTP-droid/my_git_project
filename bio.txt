@@ -1,2 +1,5 @@
 ﻿Hello, I am learning Git and Github!
 I like fruit!
+Contact:
+Email: Example@Example.com
+Phone: 111-222-3334
